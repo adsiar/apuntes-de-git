@@ -18,3 +18,5 @@ git config --global user.email johndoe@example.com
 git config --global core.editor nano
 git config --list
 ```
+
+Esta línea fue creada en la rama master.
