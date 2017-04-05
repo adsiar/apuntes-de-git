@@ -39,3 +39,7 @@ Con este comando vemos el contenido del archivo, copiamos todo el texto que nos 
 6. Ir a las configuración de nuestro perfil de Github y agregar una nueva llave SSH con el contenido que hemos copiado de `github_rsa.pub`.
 
 Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los datos de acceso.
+
+## Aportes desde otra cuenta
+
+Este texto fue aportado desde la cuenta DanielMeloC
