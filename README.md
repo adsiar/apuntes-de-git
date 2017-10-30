@@ -43,3 +43,7 @@ Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los dato
 ## Aportes desde otra cuenta
 
 Este texto fue aportado desde la cuenta DanielMeloC
+
+## Aportes de Ajfero para Daniel
+
+Hola daniel estoy probando las instrucciones q distes en el curso, estoy editando este archivo README.md aprovecho para agradecerte lo q haces. Venezolano en Argentina.
