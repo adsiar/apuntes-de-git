@@ -1,2 +1,3 @@
-# Este archivo será ignorado por git.
+# Estos archivos serán ignorados por git.
 secreto.md
+*.txt
