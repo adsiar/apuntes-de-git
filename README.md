@@ -1,4 +1,5 @@
-# Curso Git desde cero
+
+# Apuntes del curso EDTeam. Curso Git desde cero
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
 ## Zonas de Git
@@ -43,3 +44,8 @@ Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los dato
 ## Aportes desde otra cuenta
 
 Este texto fue aportado desde la cuenta DanielMeloC
+
+## Acabo de actualizar aqui
+Esto es para probar
+
+![bug](http://clipart-library.com/img/1749031.jpg)
