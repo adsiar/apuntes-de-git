@@ -47,3 +47,5 @@ Este texto fue aportado desde la cuenta DanielMeloC
 
 ## Acabo de actualizar aqui
 Esto es para probar
+
+![bug](http://clipart-library.com/img/1749031.jpg)
