@@ -43,3 +43,8 @@ Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los dato
 ## Aportes desde otra cuenta
 
 Este texto fue aportado desde la cuenta DanielMeloC
+
+
+## Aportes desde otra cuenta
+
+Este texto fue aportado por la cuenta de CesarOG. Gracias Daniel Romero eres un capo (Y)
