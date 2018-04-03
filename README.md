@@ -18,6 +18,8 @@ git config --global user.email johndoe@example.com
 git config --global core.editor nano
 git config --list
 ```
+## Aportes desde otra cuenta
+Este texto fue aportado desde otra cuenta
 
 ## Configuración SSH en Windows
 Usando Git Bash seguimos los siguiente pasos:
