@@ -41,5 +41,4 @@ Con este comando vemos el contenido del archivo, copiamos todo el texto que nos 
 Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los datos de acceso.
 
 ## Aportes desde otra cuenta
-
-Este texto fue aportado desde la cuenta DanielMeloC
+Este texto fue aportado desde la cuenta AkinRamirez
